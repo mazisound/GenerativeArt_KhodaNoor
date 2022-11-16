@@ -2,11 +2,6 @@
 Code by Maziar Hafezi
 Original code link:
 https://www.openprocessing.org/sketch/624879
-
-Author links:
-http://vamoss.com.br
-http://twitter.com/vamoss
-http://github.com/vamoss
 ******************/
 
 var circles = []
