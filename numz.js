@@ -1,5 +1,5 @@
 /******************
-Code by Vamoss
+Code by Maziar Hafezi
 Original code link:
 https://www.openprocessing.org/sketch/624879
 
