@@ -5,11 +5,11 @@ https://www.openprocessing.org/sketch/624879
 ******************/
 
 var circles = []
-var total = 100
+var total = 1000
 var img;
 
 function preload() {
-	img = loadImage('kkk.png')
+	img = loadImage('KhodaNoor.png')
 }
 
 function setup() {
